@@ -1,0 +1,19 @@
+{
+  "name": "movie-browser-project",
+  "version": "1.0.0",
+  "description": "Browse movies using API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N4vian/movie-browser-app.git"
+  },
+  "author": "N4vian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N4vian/movie-browser-app/issues"
+  },
+  "homepage": "https://github.com/N4vian/movie-browser-app#readme"
+}
